@@ -17,7 +17,7 @@ namespace Gravatar
             foreach (var t in hashBytes)
                 sb.Append(t.ToString("X2"));
 
-            return $"https://www.gravatar.com/avatar/{sb.ToString().ToLower()}?s=${size}";
+            return $"https://www.gravatar.com/avatar/{sb.ToString().ToLower()}?s={size}";
         }
     }
 }
