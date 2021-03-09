@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>GravatarBeltrame</PackageId>
+    <Version>1.0.0</Version>
+    <Icon>https://www.gravatar.com/avatar/66432t234574hw56</Icon>
+    <Lisense>MIT</Lisense>
+    <Authors>Gabriel Beltrame</Authors>
+    <Company>GAWI</Company>
+    <PackageDescription>Extensions for Gravatar</PackageDescription>
+    <Description>Extensions for Gravatar</Description>
+    <RepositoryUrl>https://github.com/GabrielBeltrame/Gravatar</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/GabrielBeltrame/Gravatar</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Gravatar</PackageTags>
+    <ReleaseNotes></ReleaseNotes>
+    <Title>Gravatar Extensions</Title>
+    <Summary>Extensions for Gravatar</Summary>
+  </PropertyGroup>
+
+</Project>
